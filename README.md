@@ -53,6 +53,3 @@ JUnit tests are provided for core functionality including:
 
 
 
-Documentation:
-Each individual worked on their respective files for documentation and testing.
-

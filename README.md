@@ -2,12 +2,6 @@ Personal Finance Assistant
 
 CSC 335 - Object-Oriented Programming and Design
 
-Team Members:
-- Harshit Jain
-- Advik Bargoti
-- Ashish Choudhary
-- Richard Posthuma
-
 Project Overview
 Personal Finance Assistant is a Java desktop application that helps users manage their personal finances. The application demonstrates the implementation of object-oriented design principles, GUI development using Swing, and secure user data management.
 
@@ -57,23 +51,6 @@ JUnit tests are provided for core functionality including:
 - Budget calculations
 - Data persistence
 
-
-Individual Contributions
-Harshit Jain:
-- User authentication system
-- User interface design
-
-Ashish Choudhary:
-- Expense tracking functionality
-- Data persistence implementation
-
-Advik Bargoti:
-- Budget management system
-- Import/export Functionality
-
-Richard Posthuma:
-- Reporting system
-- Data visualization
 
 
 Documentation:
